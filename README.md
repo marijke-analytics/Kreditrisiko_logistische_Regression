@@ -27,8 +27,7 @@ Der vollständige Analysebericht ist hier als HTML‑Seite verfügbar:
 
 ```
 ├── web78_aufgabe_1.R        # Hauptskript mit vollständigem Workflow
-├── loan.csv                 # Originaldatensatz (falls enthalten)
-├── plots/                   # Exportierte Visualisierungen (optional)
+├── loan.csv                 # Originaldatensatz 
 └── README.md                # Projektdokumentation
 ```
 

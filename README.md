@@ -1,8 +1,8 @@
-# 📘 WEB78 Assignment – Kreditstatus‑Vorhersage mit R
+# 📘 Kreditstatus‑Vorhersage mit R
 
 ## 📌 Projektübersicht
 
-Dieses Projekt wurde im Rahmen des Moduls **WEB78 – Programmtechniken in Data Science** an der AKAD University durchgeführt.  
+Dieses Projekt wurde als Studienprojekt an der AKAD University durchgeführt.  
 Ziel ist die vollständige Bearbeitung eines Data‑Science‑Workflows zur **Vorhersage des Kreditstatus** (*Fully Paid* vs. *Charged Off*) auf Basis des LendingClub‑Datensatzes.
 
 Der Workflow umfasst:

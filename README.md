@@ -16,6 +16,12 @@ Der Workflow umfasst:
 Der Datensatz enthält **39.717 Kreditfälle** mit **111 Variablen**, darunter Kreditmerkmale, Kundeninformationen, Bonitätsindikatoren und Prozessdaten.
 
 ---
+## 📄 HTML‑Bericht ansehen
+
+Der vollständige Analysebericht ist hier als HTML‑Seite verfügbar:
+
+🔗 **https://marijke-analytics.github.io/Kreditrisiko_logistische_Regression/web78_aufgabe_1.html**
+
 
 ## 📂 Projektstruktur
 

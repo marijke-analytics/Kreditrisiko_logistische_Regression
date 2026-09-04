@@ -1,0 +1,2 @@
+# Kreditrisiko_logistische_Regression
+Kreditrisiko logistische Regression RStudio
